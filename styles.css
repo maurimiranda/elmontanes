@@ -137,7 +137,7 @@ body {
 }
 
 .section-dark {
-  color: #ebe1b4;
+  color: #e8dfd5;
 }
 
 .section-dark::before {
@@ -206,7 +206,7 @@ body {
 }
 
 .service-card {
-  background: #ebe1b4;
+  background: #e8dfd5;
   padding: 40px 30px;
   border-radius: 10px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -249,7 +249,7 @@ body {
 }
 
 .contact-item a {
-  color: #ebe1b4;
+  color: #e8dfd5;
   font-size: 1.1rem;
   text-decoration: none;
   transition: color 0.3s ease;
