@@ -1,0 +1,10 @@
+# robots.txt for elmontanes.com.ar
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://elmontanes.com.ar/sitemap.xml
+
+# Disallow admin or private areas (add if needed)
+# Disallow: /admin/
